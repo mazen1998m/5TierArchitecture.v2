@@ -1,0 +1,17 @@
+﻿E:\Accounting project\Accaunting\New folder\app.wep\Controllers\ApiController.cs
+E:\Accounting project\Accaunting\New folder\app.wep\Controllers\CustomerController.cs
+E:\Accounting project\Accaunting\New folder\app.wep\Controllers\HomeController.cs
+E:\Accounting project\Accaunting\New folder\app.wep\Program.cs
+E:\Accounting project\Accaunting\New folder\app.wep\Services\AllAssemblyServices\Assemble.cs
+E:\Accounting project\Accaunting\New folder\app.wep\Services\AllAssemblyServices\AssemblyServices.cs
+E:\Accounting project\Accaunting\New folder\app.wep\Services\InjectionService\DependencyInjectionService.cs
+E:\Accounting project\Accaunting\New folder\app.wep\Services\JsonServices\ReadJson.cs
+E:\Accounting project\Accaunting\New folder\app.wep\obj\Debug\net6.0\App.web.GlobalUsings.g.cs
+E:\Accounting project\Accaunting\New folder\app.wep\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+E:\Accounting project\Accaunting\New folder\app.wep\obj\Debug\net6.0\App.web.AssemblyInfo.cs
+E:\Accounting project\Accaunting\New folder\app.wep\obj\Debug\net6.0\App.web.MvcApplicationPartsAssemblyInfo.cs
+E:\Accounting project\Accaunting\New folder\app.wep\appsettings.Development.json
+E:\Accounting project\Accaunting\New folder\app.wep\appsettings.json
+E:\Accounting project\Accaunting\New folder\app.wep\AssemblyMeta.json
+E:\Accounting project\Accaunting\New folder\app.wep\Properties\launchSettings.json
+E:\Accounting project\Accaunting\New folder\.editorconfig

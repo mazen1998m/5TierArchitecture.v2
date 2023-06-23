@@ -1,0 +1,21 @@
+﻿E:\Accounting project\Accaunting\New folder\App.Data\CView.cs
+E:\Accounting project\Accaunting\New folder\App.Data\EFCore\DatabaseInitializer .cs
+E:\Accounting project\Accaunting\New folder\App.Data\EFCore\EfDbContext.cs
+E:\Accounting project\Accaunting\New folder\App.Data\GenericRepository\BaseRepository\BaseRepository.cs
+E:\Accounting project\Accaunting\New folder\App.Data\GenericRepository\BaseRepository\IBaseRepository.cs
+E:\Accounting project\Accaunting\New folder\App.Data\GenericRepository\Exceptions\ExceptionErrorMassage.cs
+E:\Accounting project\Accaunting\New folder\App.Data\GenericRepository\Exceptions\Expression.cs
+E:\Accounting project\Accaunting\New folder\App.Data\GenericRepository\Exceptions\ObjNullException.cs
+E:\Accounting project\Accaunting\New folder\App.Data\GenericRepository\Exceptions\ProdException.cs
+E:\Accounting project\Accaunting\New folder\App.Data\GenericRepository\ReadRepository\IReadRepository.cs
+E:\Accounting project\Accaunting\New folder\App.Data\GenericRepository\ReadRepository\ReadRepository.cs
+E:\Accounting project\Accaunting\New folder\App.Data\GenericRepository\WriteRepository\IWriteRepository.cs
+E:\Accounting project\Accaunting\New folder\App.Data\GenericRepository\WriteRepository\WriteRepository.cs
+E:\Accounting project\Accaunting\New folder\App.Data\Migrations\20230408194018_initialize_tables.cs
+E:\Accounting project\Accaunting\New folder\App.Data\Migrations\20230408194018_initialize_tables.Designer.cs
+E:\Accounting project\Accaunting\New folder\App.Data\Migrations\EfDbContextModelSnapshot.cs
+E:\Accounting project\Accaunting\New folder\App.Data\Query.cs
+E:\Accounting project\Accaunting\New folder\App.Data\UOW\IUow.cs
+E:\Accounting project\Accaunting\New folder\App.Data\UOW\Uow.cs
+E:\Accounting project\Accaunting\New folder\App.Data\vew\CustomerInclude.cs
+E:\Accounting project\Accaunting\New folder\App.Data\vew\Exception.txt

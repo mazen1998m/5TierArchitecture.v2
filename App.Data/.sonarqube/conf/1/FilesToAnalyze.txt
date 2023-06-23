@@ -1,0 +1,15 @@
+﻿E:\Accounting project\Accaunting\New folder\app.Domain\Addresses\Address.cs
+E:\Accounting project\Accaunting\New folder\app.Domain\Addresses\City.cs
+E:\Accounting project\Accaunting\New folder\app.Domain\Addresses\Country.cs
+E:\Accounting project\Accaunting\New folder\app.Domain\Addresses\Street.cs
+E:\Accounting project\Accaunting\New folder\app.Domain\Attachments\Attachment.cs
+E:\Accounting project\Accaunting\New folder\app.Domain\Companies\Company.cs
+E:\Accounting project\Accaunting\New folder\app.Domain\CreditTerms\CreditTerms.cs
+E:\Accounting project\Accaunting\New folder\app.Domain\Humans\Customers\Customer.cs
+E:\Accounting project\Accaunting\New folder\app.Domain\Humans\Customers\View.cs
+E:\Accounting project\Accaunting\New folder\app.Domain\Humans\Gender.cs
+E:\Accounting project\Accaunting\New folder\app.Domain\Humans\Human.cs
+E:\Accounting project\Accaunting\New folder\app.Domain\Humans\Persons\Email.cs
+E:\Accounting project\Accaunting\New folder\app.Domain\Humans\Persons\Person.cs
+E:\Accounting project\Accaunting\New folder\app.Domain\Humans\Persons\Phone.cs
+E:\Accounting project\Accaunting\New folder\app.Domain\Taxes\Tax.cs
